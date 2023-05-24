@@ -1,0 +1,1 @@
+Validate           name          type of extract\n          Lorena Weeks         Noxen\n          Jasmine Maxwell         Geyserville\n          Kelsey Carpenter         Johnsonburg\n          Merrill Ratliff         Hasty\n          Barbra Cline         Bowmansville\n

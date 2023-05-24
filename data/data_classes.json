@@ -1,0 +1,42 @@
+[
+    {
+      "index": 0,
+      "name": "Joyner Cross",
+      "description": "HIVEDOM",
+      "Synonyms": "TURNLING",
+      "Subclasses": "DARWINIUM",
+      "validate": false
+    },
+    {
+      "index": 1,
+      "name": "Delgado Livingston",
+      "description": "COMVEY",
+      "Synonyms": "POOCHIES",
+      "Subclasses": "ROUGHIES",
+      "validate": true
+    },
+    {
+      "index": 2,
+      "name": "Leanne Woods",
+      "description": "DATACATOR",
+      "Synonyms": "RODEOMAD",
+      "Subclasses": "PRINTSPAN",
+      "validate": false
+    },
+    {
+      "index": 3,
+      "name": "Solis Montoya",
+      "description": "HOPELI",
+      "Synonyms": "ZORROMOP",
+      "Subclasses": "NEWCUBE",
+      "validate": true
+    },
+    {
+      "index": 4,
+      "name": "Debra Adams",
+      "description": "FRANSCENE",
+      "Synonyms": "CONFRENZY",
+      "Subclasses": "SLUMBERIA",
+      "validate": true
+    }
+  ]
